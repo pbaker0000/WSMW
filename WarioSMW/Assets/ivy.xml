@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<ivy-module version="2.0" e:basepath="C:\BuildAgent\work\d63dfc6385190b60\Extensions\guisystem" xmlns:e="http://ant.apache.org/ivy/extra">
+  <info version="1.1.1" organisation="Zerot" module="UIToolbox" e:packageType="UnityExtension" e:unityVersion="4.6" />
+  <publications>
+    <artifact name="Editor/UIToolbox" type="dll" ext="dll" e:guid="331d0404ace2456d9259ebf296b68b37" />
+  </publications>
+</ivy-module>
